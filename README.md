@@ -1,2 +1,2 @@
-# Bokunoapp
+# multiplayer websockets
 Snakegame
